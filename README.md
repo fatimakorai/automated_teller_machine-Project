@@ -1,3 +1,3 @@
-# automated_teller_machine-Project
+# ATM_Project_CLI
 
-Automated teller machine Third Project of GIAIC (Quarter 1 TypeScript)
+Third Project of Quarter 1 TypeScript (GIAIC)
